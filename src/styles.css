@@ -1,0 +1,20 @@
+.Contact{
+  width:300px;
+  height: 300px;
+  margin-left: 20px;
+  margin-top: 20px;
+  padding-left:40px;
+  border: 2px solid gray;
+  position: relative;
+  display: block;
+  float:left;
+}
+.NewPokemon{
+  display: block;
+  position: relative;
+  
+}
+
+form > label,input{
+  display: block;
+}
